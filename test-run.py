@@ -4,7 +4,7 @@ from sklearn.linear_model import LinearRegression
 
 import mlflow
 # enable autologging
-mlflow.set_experiment(experiment_id='6df1c4777c3b4d869f6a21689dbcd38e')
+mlflow.set_experiment(experiment_id='39a89da4f33143d4bff6b9d649327166')
 mlflow.sklearn.autolog()
 
 # prepare training data
